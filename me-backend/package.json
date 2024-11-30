@@ -1,0 +1,19 @@
+{
+  "name": "me-backend",
+  "version": "1.0.0",
+  "description": "markdown editor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "marked": "^15.0.3",
+    "nodemon": "^3.1.7"
+  }
+}
